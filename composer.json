@@ -1,0 +1,12 @@
+{
+    "name": "janimattiellonen/toggle-test",
+    "license": "MIT",
+    "type": "project",
+    "description": "Testing toggle.com API",
+
+    "require": {
+        "php": ">= 5.4.20",
+        "ajt/guzzle-toggl": "dev-master"
+    },
+    "minimum-stability": "dev"
+}
